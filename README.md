@@ -16,7 +16,7 @@ Aplikace je tvořena **dvěma soubory**:
     ```
     $ cd www
     $ git clone https://github.com/edumach/rovnice
-    cd caj2
+    cd rovnice
     ```
 4. Zkontroluj funkčnost webu na URL `https://tux.panska.cz/~10XPrijmeniJ/rovnice`
 
